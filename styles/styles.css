@@ -1,0 +1,55 @@
+/* entire file */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgrey;
+}
+
+/* Header */
+.header-text {
+    background-color: orange;
+    color: white;
+    text-align: center;
+}
+
+/* main body */
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex: 0 1 auto;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p {
+    text-align: center;
+}
+
+.item {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 10px 0;
+    max-width: 80px;
+    background-color: #7b7b7b;
+    border: 3px solid orange;
+}
+
+.item:hover {
+    background-color: orange;
+    border: 3px solid #7b7b7b;
+}
+
+/* footer */
+footer {
+    background-color: #7b7b7b;
+}
+
+.footer-text {
+    text-align: center;
+    color: orange;
+}
