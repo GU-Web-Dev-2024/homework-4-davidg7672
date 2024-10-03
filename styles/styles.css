@@ -44,6 +44,18 @@ img {
     width: 50%;
 }
 
+.snickers > img {
+    width: 80%;
+}
+
+.skittles > img {
+    width: 70%;
+}
+
+.m-and-ms > img {
+    width: 90%;
+}
+
 p {
     text-align: center;
     font-family: myFontFamily, Helvetica, sans-serif;
