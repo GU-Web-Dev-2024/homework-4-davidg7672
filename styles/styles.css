@@ -65,7 +65,7 @@ p {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     padding: 10px 0;
     max-width: 140px;
-    background-color: #7b7b7b;
+    background-color: #949393;
     border: 3px solid orange;
     border-radius: 5%;
     transition: background-color 0.5s, transform 0.5s;
