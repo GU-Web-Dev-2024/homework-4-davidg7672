@@ -8,7 +8,7 @@
 /* entire file */
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: linear-gradient(to right, rgb(173, 83, 137), rgb(60, 16, 83));
+    background: linear-gradient(to right, rgb(113, 36, 83), rgb(60, 16, 83));
     margin: 0;
     height: 100vh;
 }
@@ -65,7 +65,7 @@ p {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     padding: 10px 0;
     max-width: 140px;
-    background-color: #949393;
+    background-color: #828282;
     border: 3px solid orange;
     border-radius: 5%;
     transition: background-color 0.5s, transform 0.5s;
